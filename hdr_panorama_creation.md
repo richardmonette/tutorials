@@ -22,27 +22,40 @@ Setup groups
 
 Export into 5 merged layers, but not yet HDR
 
-Step 3. Creating final HDR
+# Step 3. Creating final HDR
 
-![Alt text](photoshop content fill options.png "Optional title")
-![Alt text](photoshop content filled.png "Optional title")
-![Alt text](photoshop expand selection options.png "Optional title")
-![Alt text](photoshop expand selection.png "Optional title")
-![Alt text](photoshop expanded selection.png "Optional title")
-![Alt text](photoshop export exr.png "Optional title")
-![Alt text](photoshop fill menu.png "Optional title")
-![Alt text](photoshop merge to hdr menu.png "Optional title")
-![Alt text](photoshop merge to hdr pro options.png "Optional title")
-![Alt text](photoshop merge to hdr pro.png "Optional title")
-![Alt text](photoshop select tripod.png "Optional title")
+![Alt text](images/photoshop_merge_to_hdr_menu.png "Optional title")
 
-Open Photoshop
+Now that we have our 5 exposure panoramas, we want to merge those together to create the single HDR panorama. To do this we will use the Merge to HDR option in Photoshop.
 
-Merge to HDR Pro
+![Alt text](images/photoshop_merge_to_hdr_pro_options.png "Optional title")
 
-Select the tripod using quick select
+Select the 5 bracketed exposure panoramas.
 
-Expand the selection
+![Alt text](images/photoshop_merge_to_hdr_pro.png "Optional title")
 
-Edit > Fill, Content Aware
+Here we can see the 5 exposures which are being combined into the single HDR panorama.
 
+![Alt text](images/photoshop_select_tripod.png "Optional title")
+
+Our final step will be to remove the tripod from the panorama. Use the magic wand to select the tripod.
+
+![Alt text](images/photoshop_expand_selection.png "Optional title")
+
+Expand the selection to get a bit of the surrounding, non tripod image data.
+
+![Alt text](images/photoshop_expand_selection_options.png "Optional title")
+
+![Alt text](images/photoshop_expanded_selection.png "Optional title")
+
+![Alt text](images/photoshop_fill_menu.png "Optional title")
+
+We will then use the Content Aware fill to eliminate the tripod.
+
+![Alt text](images/photoshop_content_fill_options.png "Optional title")
+
+![Alt text](images/photoshop_content_filled.png "Optional title")
+
+![Alt text](images/photoshop_export_exr.png "Optional title")
+
+Finally, export the HDR panorama as an EXR.
