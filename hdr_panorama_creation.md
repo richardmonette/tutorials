@@ -24,6 +24,18 @@ Export into 5 merged layers, but not yet HDR
 
 Step 3. Creating final HDR
 
+![Alt text](photoshop content fill options.png "Optional title")
+![Alt text](photoshop content filled.png "Optional title")
+![Alt text](photoshop expand selection options.png "Optional title")
+![Alt text](photoshop expand selection.png "Optional title")
+![Alt text](photoshop expanded selection.png "Optional title")
+![Alt text](photoshop export exr.png "Optional title")
+![Alt text](photoshop fill menu.png "Optional title")
+![Alt text](photoshop merge to hdr menu.png "Optional title")
+![Alt text](photoshop merge to hdr pro options.png "Optional title")
+![Alt text](photoshop merge to hdr pro.png "Optional title")
+![Alt text](photoshop select tripod.png "Optional title")
+
 Open Photoshop
 
 Merge to HDR Pro
